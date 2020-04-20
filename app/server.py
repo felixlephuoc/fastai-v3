@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1atu9XDY2g-AEXV8BjTUx6Rj1SHeGFBjn'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1Hv_g2OIB-9y09EQIsfPu9gBTHtUddbpE'
 export_file_name = 'export.pkl'
 
 classes = ['Apple', 'Banana', 'Lemon', 'Orange', 'Strawberry']
